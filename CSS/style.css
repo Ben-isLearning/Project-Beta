@@ -2,13 +2,9 @@
     font-family: verdana;
     background-color: black;
     text-align: center;
-    font-weight: normal;
-    color:gray;
-}
-
-h1, 
-h2 {
-    color: white;
+    font-weight: normal; 
+      color: white;
+   
 }
 
 h1 {
@@ -21,6 +17,7 @@ h2 {
 
 p {
     font-size: 21px;
+     color:gray;
 }
 
 a {
